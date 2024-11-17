@@ -1,0 +1,3 @@
+1：将model-manager.py 替换放到X-AnyLabeling\anylabeling\services\auto_labeling\model_manager.py
+
+2：rectangle-json2yolo.py是我自己做的json转yolo的脚本

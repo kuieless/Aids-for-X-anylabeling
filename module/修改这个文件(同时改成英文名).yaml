@@ -1,0 +1,12 @@
+type: yolov8   #需要修改为yolov8，yolov11......
+name: yolov8
+display_name: aphid  
+model_path: aphid.onnx #需要修改为你自己的模型名字
+input_width: 640
+input_height: 640
+stride: 32
+nms_threshold: 0.45
+confidence_threshold: 0.25
+# score_threshold: 0.45  # ������һ��
+classes:
+  - aphid  #需要修改为你自己的类别名字
