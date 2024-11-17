@@ -37,13 +37,13 @@ conda activate x4
 
 
 
-# 1、Replace model-manager.py with the one located at X-AnyLabeling\anylabeling\services\auto_labeling\model_manager.py.
+ 1、Replace model-manager.py with the one located at X-AnyLabeling\anylabeling\services\auto_labeling\model_manager.py.
 
-# 2、rectangle-json2yolo.py is a script I created to convert JSON to YOLO format.
+ 2、rectangle-json2yolo.py is a script I created to convert JSON to YOLO format.
 
-# 3、Place your trained models (converted to ONNX) such as v8 or v11 in the same folder as the YAML file.
+ 3、Place your trained models (converted to ONNX) such as v8 or v11 in the same folder as the YAML file.
 
-# 4、When using automatic labeling, modify the parameters in the YAML file according to the module folder I provided to specify the ONNX model.
+ 4、When using automatic labeling, modify the parameters in the YAML file according to the module folder I provided to specify the ONNX model.
 
 
 
