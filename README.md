@@ -1,5 +1,5 @@
 视频教程：https://www.bilibili.com/video/BV1LHUkYzEwY/?vd_source=a5cc056412c15f2af87af6c95f56941d
-
+![UI Components Overview/UI组件界面](https://github.com/kuieless/Aids-for-X-anylabeling/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241118173717.png)
 # 创建环境
 conda create --name x4 python==3.10
 conda activate x4
